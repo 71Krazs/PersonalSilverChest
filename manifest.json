@@ -1,0 +1,9 @@
+{
+  "name": "PersonalSilverChest",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/71Krazs/PersonalSilverChest",
+  "description": "A private PersonalSilverChest with Reinforced Chest capacity.",
+  "dependencies": [
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}
